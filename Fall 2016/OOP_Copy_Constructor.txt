@@ -1,0 +1,72 @@
+#include <stdint.h>
+#include <iostream>
+#include <iomanip>
+#include <cstring>
+
+using namespace std;
+
+class A {
+public:
+	void print() {
+		cout << "id==" << id << "\toid==" << oid << "\tx==" << x << endl;
+	}
+
+	A(const A& a) :x(a.x), oid(++id) {
+		cout << "A(const A&) ";
+		print();
+	}
+
+	A(int y = 0) :x(y), oid(++id) {
+		cout << "A(int) ";
+		print();
+	}
+
+	~A() {
+		cout << "~A ";
+		print();
+	}
+
+private:
+	int x;
+	int oid;
+	static int id;
+};
+
+int A::id = 0;
+
+class B {
+public:
+	B(const A& w):a(w) {
+		cout << "B(const A&)\n";
+	}
+	B(const B& v) :a(v.a) {
+		cout << "B(const B&)\n";
+	}
+	~B() {
+		cout << "~B()\n";
+	}
+private: 
+	A a;
+};
+
+int main() {
+	cout << "Line 1\n";
+	A a1(1);
+	cout << "Line 2\n";
+	A a2(2);
+	cout << "Line 3\n";
+	A a3(a1);
+	cout << "Line 4\n";
+	A a4 = a2;
+	cout << "Line 5\n";
+	A a5 = 42;
+	cout << "Line 6\n";
+	A a5_2{ 42 };
+	cout << "Line 7\n";
+	B b(a1);
+	cout << "Line 8\n";
+	B c(b);
+
+
+	system("pause");
+}

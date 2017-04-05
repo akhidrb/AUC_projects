@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\parse_reg_exp_concepts\parse_reg_exp_concepts\source.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhid\documents\visual studio 2015\projects\parse_reg_exp_concepts\parse_reg_exp_concepts\source.cpp(156): warning C4018: '<': signed/unsigned mismatch
+  Parse_Reg_Exp_Concepts.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Parse_Reg_Exp_Concepts\Debug\Parse_Reg_Exp_Concepts.exe
+  Parse_Reg_Exp_Concepts.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Parse_Reg_Exp_Concepts\Debug\Parse_Reg_Exp_Concepts.pdb (Partial PDB)

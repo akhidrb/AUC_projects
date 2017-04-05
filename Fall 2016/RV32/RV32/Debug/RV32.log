@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\rv32\rv32\source.cpp(337): warning C4129: 'X': unrecognized character escape sequence
+c:\users\akhid\documents\visual studio 2015\projects\rv32\rv32\source.cpp(221): warning C4101: 'address': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\rv32\rv32\source.cpp(220): warning C4101: 'J_imm': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\rv32\rv32\source.cpp(533): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  RV32.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\RV32\Debug\RV32.exe
+  RV32.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\RV32\Debug\RV32.pdb (Partial PDB)

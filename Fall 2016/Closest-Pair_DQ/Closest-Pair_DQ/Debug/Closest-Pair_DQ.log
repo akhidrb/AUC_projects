@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\closest-pair_dq\closest-pair_dq\source.cpp(57): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\akhid\documents\visual studio 2015\projects\closest-pair_dq\closest-pair_dq\source.cpp(59): warning C4101: 'secret': unreferenced local variable
+  Closest-Pair_DQ.vcxproj -> c:\users\akhid\documents\visual studio 2015\Projects\Closest-Pair_DQ\Debug\Closest-Pair_DQ.exe
+  Closest-Pair_DQ.vcxproj -> c:\users\akhid\documents\visual studio 2015\Projects\Closest-Pair_DQ\Debug\Closest-Pair_DQ.pdb (Partial PDB)

@@ -1,0 +1,9 @@
+ASS 5, a1
+READ a0
+ADD a0, a1, a1
+WRITE a1
+NEG a1, a1
+WRITE a1
+MUL a1, 2, a1
+WRITE a1
+HALT

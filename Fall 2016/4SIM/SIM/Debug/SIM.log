@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\4sim\sim\source.cpp(305): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhid\documents\visual studio 2015\projects\4sim\sim\source.cpp(312): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhid\documents\visual studio 2015\projects\4sim\sim\source.cpp(324): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhid\documents\visual studio 2015\projects\4sim\sim\source.cpp(325): warning C4018: '<': signed/unsigned mismatch
+c:\users\akhid\documents\visual studio 2015\projects\4sim\sim\source.cpp(125): warning C4715: 'JMP0::execute': not all control paths return a value
+  SIM.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\4SIM\Debug\SIM.exe
+  SIM.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\4SIM\Debug\SIM.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\cache\cache\source.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\akhid\documents\visual studio 2015\projects\cache\cache\source.cpp(161): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\akhid\documents\visual studio 2015\projects\cache\cache\source.cpp(257): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Cache.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Cache\Debug\Cache.exe
+  Cache.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Cache\Debug\Cache.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\quick_select\quick_select\source.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\akhid\documents\visual studio 2015\projects\quick_select\quick_select\source.cpp(64): warning C4101: 'secret': unreferenced local variable
+  Quick_Select.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Quick_Select\Debug\Quick_Select.exe
+  Quick_Select.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Quick_Select\Debug\Quick_Select.pdb (Partial PDB)

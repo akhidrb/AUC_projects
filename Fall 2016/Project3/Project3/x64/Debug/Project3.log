@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(123): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(129): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(135): warning C4065: switch statement contains 'default' but no 'case' labels
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(36): warning C4101: 'address': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(35): warning C4101: 'S_imm': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(35): warning C4101: 'B_imm': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(35): warning C4101: 'J_imm': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(35): warning C4101: 'U_imm': unreferenced local variable
+c:\users\akhid\documents\visual studio 2015\projects\project3\project3\source.cpp(167): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Project3.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Project3\x64\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\akhid\Documents\Visual Studio 2015\Projects\Project3\x64\Debug\Project3.pdb (Partial PDB)

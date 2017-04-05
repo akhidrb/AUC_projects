@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\floating_point\floating_point\source.cpp(6): warning C4101: 'r': unreferenced local variable
+  Floating_Point.vcxproj -> c:\users\akhid\documents\visual studio 2015\Projects\Floating_Point\Debug\Floating_Point.exe
+  Floating_Point.vcxproj -> c:\users\akhid\documents\visual studio 2015\Projects\Floating_Point\Debug\Floating_Point.pdb (Partial PDB)

@@ -1,0 +1,3 @@
+ASS 3, a0
+WRITE a0
+HALT

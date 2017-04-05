@@ -1,0 +1,6 @@
+ASS 10, a1
+JMP0 a1, j6
+WRITE a1
+ADD a1, -1, a1
+JMP j2
+HALT

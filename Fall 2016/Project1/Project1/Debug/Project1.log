@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\akhid\documents\visual studio 2015\projects\project1\project1\source.cpp(43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RandGen.cpp
+  Generating Code...
+  Project1.vcxproj -> c:\users\akhid\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe
+  Project1.vcxproj -> c:\users\akhid\documents\visual studio 2015\Projects\Project1\Debug\Project1.pdb (Partial PDB)
