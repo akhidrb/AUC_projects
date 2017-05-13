@@ -1,0 +1,8 @@
+int ID ( void )
+{
+float ID ;
+int ID [ NUM ] ;
+{
+ID = ID * NUM
+}
+}
